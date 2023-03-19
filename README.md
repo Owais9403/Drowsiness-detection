@@ -7,6 +7,7 @@ According to the Association For Safe International Road Travel along with few o
 # What it does
 Our prototype is a creative, compact and cost-effective solution which can seamlessly prevent dangerous accidents in commute by intelligently alerting the driver in lethargy and distraction and detection using Computer Vision and also done some of the sample test of the System.
 
+    ![WhatsApp Image 2023-03-19 at 18 46 04](https://user-images.githubusercontent.com/127964692/226177643-e07feac2-d8e9-4864-8364-f5de952520b9.jpeg)
 
 # How we built it
 We have used a facial landmark detector to identify facial features in order to extract eye, which are the main identifiers for a driver to be lethargic and distracted respectively. A couple of major libraries namely dlib and open-cv in python are used to build our solution.
