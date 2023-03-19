@@ -25,6 +25,6 @@ We have explored the realms of computer vision and realized how the similar thou
 dlib numpy opencv python
 
 # Done By:
-Mudith nahta:https://github.com/mudith-nahata
+Mudith nahata:https://github.com/mudith-nahata
 
 Owais Musharauf:https://github.com/Owais9403 
